@@ -1,2 +1,20 @@
 # Proyecto-EC
 Aqui se va alojar el propyecto de entorno cliente.
+
+## ¿Qué va hacer?
+Va a monitorizar la actividad de un bot de discord, atraves de un interfaz. El bot de discord va a estar conectado a una de estas API:
+ 1. [Pokeapi](https://pokeapi.co)
+ 2. [AnimeNewsNetwork](https://www.animenewsnetwork.com/encyclopedia/api.php)
+ 3. [LibGen](https://garbage.world/posts/libgen/)
+ 4. [Foodish](https://github.com/surhud004/Foodish#readme)
+
+## Requisitos
+
+ - Bot Discord **(Backend)**: 
+	 - Tendre que utilizar NODE.JS.
+	 - Tendre que registrar el bot en discord.
+	 - Desplegar el bot aparte.**(Opcional)** 
+ - Monitorizacion **(Frontend)**:
+	 - Para la estructura de la pagina Html.
+	 - Para el estilo Css / Bootstrap.
+	 - Para la funcionalidad y la conexión JS.
