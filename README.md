@@ -17,7 +17,7 @@ Va a monitorizar la actividad de un bot de discord (La accion del bot, la inform
  - Monitorizacion **(Frontend)**:
 	 - Para la estructura de la pagina Html.
 	 - Para el estilo Css / Bootstrap.
-	 - Para la funcionalidad y la conexión JS.
+	 - Para la funcionalidad y la conexión JS / React o Vue.
 	 
 ## Trello
 [Link](https://trello.com/invite/b/5BAP0mCP/46d0125b5774e03216a97dfc247d2bf9/project)
