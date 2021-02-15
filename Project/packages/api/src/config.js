@@ -13,15 +13,6 @@ const config = {
   app: {
     port: process.env.PORT,
   },
-  mongodb: {
-    uri: `mongodb${db.atlas}://${db.host}/${db.name}?retryWrites=true&w=majority`,
-    options: {
-      user: db.user,
-      pass: db.pass,
-      useUnifiedTopology: true,
-      useNewUrlParser: true,
-    },
-  },
 };
 
 module.exports = config;

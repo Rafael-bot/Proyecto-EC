@@ -1,6 +1,7 @@
 const { logger } = require('helpers');
 const app = require('./app');
 const config = require('./config');
+const Discord = require('discord.js');
 
 const { port } = config.app;
 
