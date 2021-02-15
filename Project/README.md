@@ -1,2 +1,2 @@
 # lerna-mern
-Mongo+Express+React+NodeJS in monoreporitory using Lerna
+Api+Express+Vue+NodeJS in monoreporitory using Lerna
