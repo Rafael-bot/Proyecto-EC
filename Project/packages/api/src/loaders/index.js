@@ -3,7 +3,7 @@ const botLoader = require('./bot');
 
 function init(app, config) {
   expressLoader(app, config.security);
-  botLoader(config);
+  //botLoader(config);
 }
 
 module.exports = {
